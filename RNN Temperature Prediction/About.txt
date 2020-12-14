@@ -1,0 +1,13 @@
+Minimum Daily Temperatures Dataset
+
+https://machinelearningmastery.com/time-series-datasets-for-machine-learning/
+
+This dataset describes the minimum daily temperatures over 10 years (1981-1990) in the city Melbourne, Australia.
+
+The units are in degrees Celsius and there are 3650 observations. The source of the data is credited as the Australian Bureau of Meteorology.
+
+Below is a sample of the first 5 rows of data including the header row.
+
+The dataset shows a strong seasonality component and has a nice fine grained detail to work with.
+
+Download the dataset @ https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv
